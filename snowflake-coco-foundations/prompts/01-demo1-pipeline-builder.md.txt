@@ -1,0 +1,3 @@
+What tables are in the COCO_WORKSHOP.SOURCE_DATA schema?
+
+For each table, give me a one-line description of what it appears to contain and identify which ones are most relevant to an AP invoices Silver layer.
