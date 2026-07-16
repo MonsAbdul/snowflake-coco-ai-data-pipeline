@@ -197,7 +197,7 @@ sql/03_validation/05_workshop_validation.sql
 |---|
 | Congratulations! You have successfully completed the Cortex Code Foundations workshop! |
 
-![Final workshop validation](docs/screenshots/final-validation-success.png)
+![Final workshop validation](snowflake-coco-foundations/docs/screenshots/final-validation-success.png)
 
 ## Technical Stack
 
